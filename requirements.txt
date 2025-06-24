@@ -1,5 +1,3 @@
-discord.py[voice]
+discord.py
 PyNaCl
-opuslib
-aiohttp
 python-dotenv
